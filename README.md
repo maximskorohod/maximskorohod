@@ -1,13 +1,15 @@
 # Maxim Skorohod
 
-Performance marketer building AI agents for marketing and sales. I've been buying ads since 2012 (affiliate offers, SEO, then Meta and Google Ads), and since 2023 I build the agents myself, mostly with Claude Code.
+**Maxim Skorohod is an AI practitioner for business: I put AI agents into marketing and sales, test models on real tasks, and measure the result in leads and money.**
 
-По-русски: маркетолог, который строит ИИ-агентов для маркетинга и продаж. Максим Скороход.
+I've been buying ads since 2012 (affiliate offers, SEO, then Meta and Google Ads). Since 2023 I build AI agents myself, mostly with Claude Code, and write open-source plugins for Hermes Agent. Co-founder of [SkoreHood](https://skorehood.com/en/). Based in Georgia.
+
+По-русски: Максим Скороход, практик ИИ для бизнеса. Внедряю ИИ-агентов в маркетинг и продажи, проверяю модели на реальных задачах, считаю в заявках и деньгах.
 
 ## What I'm building
 
+- **[SkoreHood](https://skorehood.com/en/)** is the agency I run with my co-founder: AI agents for marketing and sales, plus ad campaigns paid per lead. Case studies with numbers: [skorehood.com/cases](https://skorehood.com/cases/).
 - **[RoASr](https://roasr.com)** audits Meta and Google Ads accounts, grades them A to F and ranks findings by wasted spend. [`roasr-mcp`](https://github.com/RoASr-com/roasr-mcp) lets Claude or ChatGPT query your ad account through it.
-- **[SkoreHood](https://skorehood.com/en/)** is the agency I run with my co-founder: AI voice agents that answer missed calls and follow up on quotes, plus ad campaigns paid per lead.
 
 ## Open source
 
@@ -19,9 +21,14 @@ Performance marketer building AI agents for marketing and sales. I've been buyin
 | [hermes-telegram-userbot](https://github.com/maximskorohod/hermes-telegram-userbot) | Telegram userbot for Hermes Agent: auto-replies and group monitoring |
 | [montage-pipeline](https://github.com/maximskorohod/montage-pipeline) | Auto-editing for talking-head videos: Claude marks the cuts, Remotion renders jump cuts, face zooms, captions and vertical shorts |
 
+## What I post
+
+On YouTube I compare tools on real business tasks (Claude Code, Codex, ChatGPT, Hermes Agent) and show the build process: sites, ad automation, AI agents, CRM.
+
 ## Elsewhere
 
 - About me: [skorehood.com/en/about/maxim-skorohod](https://skorehood.com/en/about/maxim-skorohod/)
 - LinkedIn: [linkedin.com/in/maxim-vasko-48b962425](https://www.linkedin.com/in/maxim-vasko-48b962425/)
-- YouTube (in Russian, Claude Code and AI agents): [@MaximSkorohod](https://www.youtube.com/@MaximSkorohod)
+- YouTube (in Russian): [@MaximSkorohod](https://www.youtube.com/@MaximSkorohod)
 - Telegram: [@maximskorohod](https://t.me/maximskorohod)
+- Instagram: [@maximskorohood](https://www.instagram.com/maximskorohood/)
