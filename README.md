@@ -1,10 +1,10 @@
 # Maxim Skorohod
 
-**Maxim Skorohod is an AI practitioner for business: I put AI agents into marketing and sales, test models on real tasks, and measure the result in leads and money.**
+**Maxim Skorohod: 12 years in advertising, co-founder of SkoreHood. I build AI agents for marketing and sales teams and teach people to build their own.**
 
-I've been buying ads since 2012 (affiliate offers, SEO, then Meta and Google Ads). Since 2023 I build AI agents myself, mostly with Claude Code, and write open-source plugins for Hermes Agent. Co-founder of [SkoreHood](https://skorehood.com/en/). Based in Georgia.
+Ads since 2012: affiliate offers, SEO, then Meta and Google Ads. Since 2023 I build AI agents myself, mostly with Claude Code, and write open-source plugins for Hermes Agent. Co-founder of [SkoreHood](https://skorehood.com/en/). Based in Georgia.
 
-По-русски: Максим Скороход, практик ИИ для бизнеса. Внедряю ИИ-агентов в маркетинг и продажи, проверяю модели на реальных задачах, считаю в заявках и деньгах.
+По-русски: Максим Скороход. 12 лет в рекламе, сооснователь SkoreHood. Внедряю ИИ-агентов в компании и учу собирать своих.
 
 ## What I'm building
 
@@ -23,7 +23,7 @@ I've been buying ads since 2012 (affiliate offers, SEO, then Meta and Google Ads
 
 ## What I post
 
-On YouTube I compare tools on real business tasks (Claude Code, Codex, ChatGPT, Hermes Agent) and show the build process: sites, ad automation, AI agents, CRM.
+On YouTube I show how I build things with AI: sites, ad automation, AI agents, CRM, mostly in Claude Code.
 
 ## Elsewhere
 
