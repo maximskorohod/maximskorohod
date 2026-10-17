@@ -2,7 +2,7 @@
 
 **Maxim Skorohod: 12 years in advertising, co-founder of SkoreHood. I build AI agents for marketing and sales teams and teach people to build their own.**
 
-Ads since 2012: affiliate offers, SEO, then Meta and Google Ads. Since 2023 I build AI agents myself, mostly with Claude Code, and write open-source plugins for Hermes Agent. Co-founder of [SkoreHood](https://skorehood.com/en/). Based in Georgia.
+Ads since 2012: affiliate offers, SEO, then Meta and Google Ads. Since 2023 I build AI agents myself, mostly with Claude Code, and write open-source plugins for Hermes Agent. Based in Georgia.
 
 По-русски: Максим Скороход. 12 лет в рекламе, сооснователь SkoreHood. Внедряю ИИ-агентов в компании и учу собирать своих.
 
